@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css');
+
+*{
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    color-scheme: light;
+    margin: 8px;
+}
+
+table {
+    width: 90%;
+    margin-left: 5%;
+}
+
+tr{
+    display: flex;
+    justify-content: center;
+}
+
+.cat-carrito{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.cat-carrito div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.carro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#carrito p {
+    font-size: 5.8vh;
+    margin: 0;
+}
+
+.feedback {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    height: 46px;
+    width: 100%;
+    background-color: darkslateblue;
+    color: whitesmoke;
+    border-radius: 6px;
+    font-size: larger;
+}
+
+.categorias{
+    display: flex;
+    gap: 3%;
+    justify-content: space-between;
+    align-items: center;
+    height: 150px;
+    width: 100%;
+    background-color: rgb(233, 217, 217);
+}
+
+.tablaMercaderia {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    border: 1px;
+    background-color: rgb(73, 80, 139);
+}
+
+button:hover {
+    background-color: rgba(11, 219, 219, 0.459);
+    color: whitesmoke;
+}
+
+.button-categorias{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    border-radius: 200px;
+    height: 110px;
+    width: 112px;
+    padding: 0;
+}
+
+.categorias .button-categorias img{
+    border-radius: 100px ;
+    height: 100px;
+    width:max-content
+}
+
+p{
+    margin: 0;
+}
+
+.botonProducto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: fit-content;
+    border-radius: 5px 5px;
+    position: relative;
+}
+
+.botonProducto:hover {
+    background-color: transparent;
+    box-shadow: 0px 0px 10px black;
+}
+
+.botonProducto .productName {
+    color: black; 
+}
+
+.botonProducto .precio {
+    color: black;
+}
+
+.botonProducto .imagen button {
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    width: fit-content;
+    border: 1px solid black;
+    margin: 0;
+}
+
+.botonProducto .imagen button:hover {
+    background-color: rgb(68, 46, 211) ;
+}
+
+
+.botonProducto .imagen img {
+    height: 250px;
+    border: 0px;
+}
+
+/* carrito.html */
+
+#inicio {
+    background-color: darkslateblue;
+    border-radius: 10px;   
+}
+
+#inicio p {
+    padding: 10px;
+    color: white;
+}
+
+.remove-button{
+    cursor: pointer;
+}
+
+.tablaCarrito td{
+    padding: 0;
+}
+
+.productName {
+    display: flex;
+    align-items: center;
+    min-width: 420px;
+    justify-content: center;
+}
+
+.productPrice {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 72px;
+}
+
+.remove-button{
+    display: flex;
+    align-items: center;
+}
+
+.image img{
+    height: 80px;
+}
+
+.pago {
+    text-align: center;
+}
+
+.divBoton {
+    text-align: center;
+}

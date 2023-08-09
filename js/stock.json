@@ -1,0 +1,246 @@
+[
+    {
+        "clase": "💻",
+        "img": "notebook-asus-tuf-gaming-f15-fx506lhb-hn323w-i5-10300h-512gb-notebook-asus-tuf-gaming-f15-fx506lhb-hn323w-i5-10300h-512gb",
+        "code": 1,
+        "name": "Asus TUF 15 FX517ZC i5-12450H 512GB 8GB RTX 3050",
+        "price": 1389
+    },
+    {
+        "clase": "💻",
+        "img": "notebook-lenovo-ideapad-3-celeron-n4020-256gb-8gb-14-notebook-lenovo-ideapad-3-celeron-n4020-256gb-8gb-14",
+        "code": 2,
+        "name": "Lenovo Ideapad 3 Celeron N4020 256GB 8GB 14",
+        "price": 379
+    },
+    {
+        "clase": "💻",
+        "img": "notebook-asus-zenbook-duo-ux482-i7-1195g7-512gb-8gb-touch-notebook-asus-zenbook-duo-ux482-i7-1195g7-512gb-8gb-touch",
+        "code": 3,
+        "name": "Asus ZenBook Duo UX482 i7-1195G7 512GB 8GB Touch",
+        "price": 1949
+    },
+    {
+        "clase": "💻",
+        "img": "notebook-apple-macbook-pro-2021-mkgp3ll-m1-512gb-16gb-s-gray-notebook-apple-macbook-pro-2021-mkgp3ll-m1-512gb-16gb-s-gray",
+        "code": 4,
+        "name": "Apple MacBook Pro 2021 MKGQ3LL M1 1TB 16GB S.Gray",
+        "price": 3389
+    },
+    {
+        "clase": "💻",
+        "img": "notebook-lenovo-15itl05-i3-1115g4-256gb-8gb-15-6-touch-notebook-lenovo-15itl05-i3-1115g4-256gb-8gb-15-6-touch",
+        "code": 5,
+        "name": "Lenovo 15ITL05 i3-1115G4 256GB 8GB 15.6",
+        "price": 629
+    },
+    {
+        "clase": "🎮",
+        "img": "consola-sony-playstation-4-ps4-slim-1tb-consola-sony-playstation-4-ps4-slim-1tb",
+        "code": 6,
+        "name": "Sony Playstation 4 PS4 Slim 1TB",
+        "price": 425
+    },
+    {
+        "clase": "🎮",
+        "img": "consola-sony-playstation-5-version-standard-ps5-gow-ragnarok-consola-sony-playstation-5-version-standard-ps5-gow-ragnarok",
+        "code": 7,
+        "name": "Sony Playstation 5 Disc PS5 God of War Ragnarok",
+        "price": 629
+    },
+    {
+        "clase": "🎮",
+        "img": "consola-nintendo-switch-con-joy-con-azul-y-rojo-neon-consola-nintendo-switch-con-joy-con-azul-y-rojo-neon",
+        "code": 8,
+        "name": "Nintendo Switch con Joy-Con Azul y Rojo Neón",
+        "price": 575
+    },
+    {
+        "clase": "🎮",
+        "img": "consola-nintendo-switch-lite-turquoise-consola-nintendo-switch-lite-turquoise",
+        "code": 9,
+        "name": "Nintendo Switch OLED Edición Especial Zelda 2023",
+        "price": 749
+    },
+    {
+        "clase": "🎮",
+        "img": "consola-sony-playstation-5-digital-ps5-god-of-war-ragnarok-consola-sony-playstation-5-digital-ps5-god-of-war-ragnarok",
+        "code": 10,
+        "name": "Sony Playstation 5 Digital PS5 God of War Ragnarok",
+        "price": 989
+    },
+    {
+        "clase": "🎧",
+        "img": "auriculares-gamer-jbl-quantum-q600-negro-auriculares-gamer-jbl-quantum-q600-negro",
+        "code": 11,
+        "name": "Gamer JBL Quantum Q600 Negro",
+        "price": 145
+    },
+    {
+        "clase": "🎧",
+        "img": "auriculares-sony-mdr-zx310ap-rojo-auriculares-sony-mdr-zx310ap-rojo",
+        "code": 12,
+        "name": "Sony MDR ZX310AP Rojo",
+        "price": 42
+    },
+    {
+        "clase": "🎧",
+        "img": "auriculares-gamer-redragon-h260-rgb-hylas-black-auriculares-gamer-redragon-h260-rgb-hylas-black",
+        "code": 13,
+        "name": "Gamer Redragon H260 RGB Hylas Black",
+        "price": 19
+    },
+    {
+        "clase": "🎧",
+        "img": "auriculares-logitech-g332-gaming-pc-ps4-xboxone-negro-rojo-auriculares-logitech-g332-gaming-pc-ps4-xboxone-negro-rojo",
+        "code": 14,
+        "name": "Logitech G332 Gaming PC PS4 XboxOne Negro-Rojo",
+        "price": 59
+    },
+    {
+        "clase": "🎧",
+        "img": "auriculares-jbl-tune-flex-nc-con-bluetooth-black-auriculares-jbl-tune-flex-nc-con-bluetooth-black",
+        "code": 15,
+        "name": "JBL Tune Flex NC con Bluetooth Black",
+        "price": 99
+    },
+    {
+        "clase": "🤳",
+        "img": "celular-xiaomi-redmi-note-12-128gb-4gb-ice-blue-ds-celular-xiaomi-redmi-note-12-128gb-4gb-ice-blue-ds",
+        "code": 16,
+        "name": "Xiaomi Redmi Note 12 128GB 4GB Ice Blue DS",
+        "price": 259
+    },
+    {
+        "clase": "🤳",
+        "img": "celular-xiaomi-redmi-12c-128gb-4gb-ocean-blue-dual-sim-celular-xiaomi-redmi-12c-128gb-4gb-ocean-blue-dual-sim",
+        "code": 17,
+        "name": "Xiaomi Redmi 12C 128GB 4GB Ocean Blue Dual Sim",
+        "price": 189
+    },
+    {
+        "clase": "🤳",
+        "img": "celular-apple-iphone-11-2020-64gb-4gb-white-celular-apple-iphone-11-2020-64gb-4gb-white",
+        "code": 18,
+        "name": "Apple iPhone 11 2020 64GB 4GB White",
+        "price": 679
+    },
+    {
+        "clase": "🤳",
+        "img": "celular-cat-s42-h-plus-32gb-3gb-black-dual-sim-celular-cat-s42-h-plus-32gb-3gb-black-dual-sim",
+        "code": 19,
+        "name": "CAT S42 H Plus 32GB 3GB Black Dual Sim",
+        "price": 369
+    },
+    {
+        "clase": "🤳",
+        "img": "celular-samsung-galaxy-a54-sm-a546-128gb-6gb-white-5g-ds-celular-samsung-galaxy-a54-sm-a546-128gb-6gb-white-5g-ds",
+        "code": 20,
+        "name": "Samsung Galaxy A54 SM-A546 128GB 6GB White 5G DS",
+        "price": 459
+    },
+    {
+        "clase": "📱",
+        "img": "tablet-microsoft-surface-pro-9-i5-1235u-256gb-8gb-platinum-tablet-microsoft-surface-pro-9-i5-1235u-256gb-8gb-platinum",
+        "code": 21,
+        "name": "Microsoft Surface Pro 9 i5-1235U 256GB 8GB Graphite",
+        "price": 1599
+    },
+    {
+        "clase": "📱",
+        "img": "tablet-amazon-fire-kids-8-hd-pro-32gb-2gb-intergalactic-tablet-amazon-fire-kids-8-hd-pro-32gb-2gb-intergalactic",
+        "code": 22,
+        "name": "Amazon Fire Kids 8 HD Pro 32GB 2GB Intergalactic",
+        "price": 139
+    },
+    {
+        "clase": "📱",
+        "img": "tablet-samsung-tab-a7-lite-t225-8-7-32gb-3gb-silver-lte-tablet-samsung-tab-a7-lite-t225-8-7-32gb-3gb-silver-lte",
+        "code": 23,
+        "name": "Samsung Tab A7 Lite T225 8.732GB 3GB Silver LTE",
+        "price":235
+        },
+    {
+        "clase":"📱",
+        "img":"tablet-amazon-fire-8-hd-32gb-2gb-rose-tablet-amazon-fire-8-hd-32gb-2gb-rose",
+        "code":24,"name":"Amazon Fire 8 HD 32GB 2GB Rose",
+        "price":159
+        },
+    {
+        "clase":"📱",
+        "img":"tablet-samsung-galaxy-tab-a-8-sm-t295-32gb-2gb-4g-black-lte-tablet-samsung-galaxy-tab-a-8-sm-t295-32gb-2gb-4g-black-lte",
+        "code":25,
+        "name":"Samsung Galaxy Tab A 8 SM-T295 32GB 2GB 4G Black LTE",
+        "price": 235
+    },
+    {
+        "clase": "📢",
+        "img": "parlante-jbl-party-box-encore-essential-100w-parlante-jbl-party-box-encore-essential-100w",
+        "code": 26,
+        "name": "JBL Party Box Encore Essential 100w",
+        "price": 319
+    },
+    {
+        "clase": "📢",
+        "img": "parlante-jbl-partybox-310-bluetooth-negro-parlante-jbl-partybox-310-bluetooth-negro",
+        "code": 27,
+        "name": "JBL PartyBox Go Flat Pin",
+        "price": 429
+    },
+    {
+        "clase": "📢",
+        "img": "parlante-portatil-jbl-go3-bluetooth-black-parlante-portatil-jbl-go3-bluetooth-black",
+        "code": 28,
+        "name": "portátil JBL Go3 Bluetooth Black",
+        "price": 199
+    },
+    {
+        "clase": "📢",
+        "img": "parlante-portatil-jbl-go3-bluetooth-orange-parlante-portatil-jbl-go3-bluetooth-orange",
+        "code": 29,
+        "name": "portátil JBL Go3 Bluetooth Orange",
+        "price": 199
+    },
+    {
+        "clase": "📢",
+        "img": "barra-de-sonido-jbl-cinema-sb120-2-0-bluetooth-barra-de-sonido-jbl-cinema-sb120-2-0-bluetooth",
+        "code": 30,
+        "name": "Barra de Sonido JBL Cinema SB120 2.0 Bluetooth",
+        "price": 175
+    },
+    {
+        "clase": "📺",
+        "img": "monitor-gamer-msi-optix-g273-27-fhd-165hz-g-sync-monitor-gamer-msi-optix-g273-27-fhd-165hz-g-sync",
+        "code": 31,
+        "name": "Gamer MSI Optix G273 27 FHD 165Hz G-Sync",
+        "price":279
+    },
+    {
+        "clase":"📺",
+        "img":"monitor-gamer-lg-27-27mp400-b-led-full-hd-ips-75hz-5ms-monitor-gamer-lg-27-27mp400-b-led-full-hd-ips-75hz-5ms",
+        "code":32,
+        "name":"Gamer LG 27 27MP400-B LED Full HD IPS 75hz 5ms",
+        "price": 289
+    },
+    {
+        "clase": "📺",
+        "img": "monitor-hp-omen-gaming-25i-fhd-24-165hz-1ms-ips-black-monitor-hp-omen-gaming-25i-fhd-24-165hz-1ms-ips-black",
+        "code": 33,
+        "name": "HP OMEN Gaming 25i FHD 24 165Hz 1ms IPS Black",
+        "price":349
+    },
+    {
+        "clase":"📺",
+        "img":"monitor-hp-m27fw-slim-fhd-27-ips-white-monitor-hp-m27fw-slim-fhd-27-ips-white",
+        "code":34,
+        "name":"HP M27FW Slim FHD 27 IPS White",
+        "price": 309
+    },
+    {
+        "clase": "📺",
+        "img": "monitor-samsung-gamer-curvo-lc24rg50fqlxzs-24-144-h-monitor-samsung-gamer-curvo-lc24rg50fqlxzs-24-144-h",
+        "code": 35,
+        "name": "Samsung Gamer Curvo LC24RG50FQLXZS 24 144 H",
+        "price":315
+    }
+]
